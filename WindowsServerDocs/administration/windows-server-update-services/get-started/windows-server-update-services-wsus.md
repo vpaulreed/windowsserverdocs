@@ -61,6 +61,8 @@ The following guides for planning, deploying, and managing WSUS are in this coll
 
 -   [Deploy Windows Server Update Services](../deploy/deploy-windows-server-update-services.md)
 
+-   [Secure WSUS with the Secure Sockets Layer Protocol](../deploy/2-configure-wsus#25-secure-wsus-with-the-secure-sockets-layer-protocol)
+
 -   [Manage Updates using Windows Server Update Services](../manage/update-management-with-windows-server-update-services.md)
 
 
